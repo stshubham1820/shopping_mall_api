@@ -1,0 +1,6 @@
+# General
+# ------------------------------------------------------------------------------
+USE_DOCKER=yes
+IPYTHONDIR=/app/.ipython
+DATABASE_URL=postgresql://debug:debug@postgres:5432/shopping_mall
+DJANGO_DEBUG=True
